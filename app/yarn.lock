@@ -484,10 +484,10 @@ picocolors@^1.0.0:
   resolved "https://registry.yarnpkg.com/picocolors/-/picocolors-1.0.0.tgz#cb5bdc74ff3f51892236eaf79d68bc44564ab81c"
   integrity sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==
 
-pocketbase@^0.21.2:
-  version "0.21.2"
-  resolved "https://registry.yarnpkg.com/pocketbase/-/pocketbase-0.21.2.tgz#0eee13983048610150c2c78ff2fa53545695afe9"
-  integrity sha512-XZdgU9dEv3TPjexDRHy5feYrZrJhWqxTki8ClFGpsnC51G3Qkwoa/U7CVG72jYcLDP3p0HiEhRUUevnlryWkHA==
+pocketbase@^0.21.3:
+  version "0.21.3"
+  resolved "https://registry.yarnpkg.com/pocketbase/-/pocketbase-0.21.3.tgz#83e16bec07ba649649c313e85cc5786a84dc422e"
+  integrity sha512-bsQRZ1mj4dhPJ4P5iSrDqWQtBX2NtuBkf6IOZwTv27zZOw6zrISgo963i5JD/99qKKD5aMSMDPGk1BE9ZyI7Cg==
 
 postcss@^8.4.38:
   version "8.4.38"
